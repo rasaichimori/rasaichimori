@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @rasaichimori
-
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on anything really.
-
-<!---
-rasaichimori/rasaichimori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Yo 👋,  I'm Rasa Ichimori</h1>
 <h2 align="center">Creative Developer</h2>
 
