@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[![website](globe-light.svg)](https://rasaichimori.com/)
-[![website](globe-dark.svg)](https://rasaichimori.com/)
+[![website](globe-light.svg)](https://rasaichimori.com/#gh-light-mode-only)
+[![website](globe-dark.svg)](https://rasaichimori.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](youtube-light.svg)](https://www.youtube.com/@raitunes)
 [![website](youtube-dark.svg)](https://www.youtube.com/@raitunes)
