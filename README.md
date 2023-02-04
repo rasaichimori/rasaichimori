@@ -12,14 +12,14 @@
 [![website](globe-light.svg)](https://rasaichimori.com/#gh-light-mode-only)
 [![website](globe-dark.svg)](https://rasaichimori.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](youtube-light.svg)](https://www.youtube.com/@raitunes)
-[![website](youtube-dark.svg)](https://www.youtube.com/@raitunes)
+[![website](youtube-light.svg)](https://www.youtube.com/@raitunes#gh-light-mode-only)
+[![website](youtube-dark.svg)](https://www.youtube.com/@raitunes#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](linkedin-light.svg)](https://linkedin.com/in/rasaichimori)
-[![website](linkedin-dark.svg)](https://linkedin.com/in/rasaichimori)
+[![website](linkedin-light.svg)](https://linkedin.com/in/rasaichimori#gh-light-mode-only)
+[![website](linkedin-dark.svg)](https://linkedin.com/in/rasaichimori#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](instagram-light.svg)](https://instagram.com/this.is.rai)
-[![website](instagram-dark.svg)](https://instagram.com/this.is.rai)
+[![website](instagram-light.svg)](https://instagram.com/this.is.rai#gh-light-mode-only)
+[![website](instagram-dark.svg)](https://instagram.com/this.is.rai#gh-dark-mode-only)
 
 
 ---
