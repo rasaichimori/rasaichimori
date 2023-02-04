@@ -9,17 +9,17 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://rasaichimori.com/)
-[![website](./img/globe-dark.svg)](https://rasaichimori.com/)
+[![website](globe-light.svg)](https://rasaichimori.com/)
+[![website](globe-dark.svg)](https://rasaichimori.com/)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@raitunes)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@raitunes)
+[![website](youtube-light.svg)](https://www.youtube.com/@raitunes)
+[![website](youtube-dark.svg)](https://www.youtube.com/@raitunes)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/rasaichimori)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/rasaichimori)
+[![website](linkedin-light.svg)](https://linkedin.com/in/rasaichimori)
+[![website](linkedin-dark.svg)](https://linkedin.com/in/rasaichimori)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/this.is.rai)
-[![website](./img/instagram-dark.svg)](https://instagram.com/this.is.rai)
+[![website](instagram-light.svg)](https://instagram.com/this.is.rai)
+[![website](instagram-dark.svg)](https://instagram.com/this.is.rai)
 
 
 ---
