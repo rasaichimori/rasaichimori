@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in combining **Music** and **Tech**!
 
-- 🌱 I’m currently learning  the **MERN stack**
+- 🌱 I’m currently learning **Rock Climbing**
 
 - 📫 How to reach me: **rasaichimori@gmail.com**
 
